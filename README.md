@@ -23,3 +23,6 @@ docker exec -it app php artisan <command>
 | MYSQL_ROOT_PASSWORD | Mysql321 |
 | MYSQL_DATABASE | laravel |
 | MYSQL_USER | root |
+
+# Test on browser 
+http://localhost
